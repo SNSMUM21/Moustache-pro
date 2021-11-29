@@ -2,7 +2,7 @@ noseX=0;
 noseY=0;
 
 function preload() {
-  clown_nose = loadImage('https://lh3.googleusercontent.com/proxy/v34K9mf1p2Yl0zFhaRrZIYR3OwZIyHkMyxNPvSauGfXpBM9Z7M1gF1b_BU_mgqGU6Z4WhjrIuvUnDZMECintGluBo4oo70UiZwenTPfo5equrlRiB9CGYEEUM9PeTVOlrF_Ymu8WMTOOTE0');
+  clown_nose = loadImage('https://i.postimg.cc/90SBQTBm/unnamed.png');
 }
 
 function setup() {
